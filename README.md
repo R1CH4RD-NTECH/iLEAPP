@@ -1,6 +1,6 @@
 # iLEAPP
 
-iOS Logs, Events, And Plists Parser  
+iOS Logs, Events, And Plists Pars 
 Details in blog post here: https://abrignoni.blogspot.com/2019/12/ileapp-ios-logs-events-and-properties.html
 
 Supports iOS/iPadOS 11, 12, 13 and 14.
